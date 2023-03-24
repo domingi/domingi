@@ -42,8 +42,9 @@ During my studies, I completed the following projects:
   From marketer to manager in 3 years.
   During my work, I rebuilt the company's marketing processes. Set up processes for receiving requests for services using Internet promotion channels, produced the   main website of the company and a network of landing pages.
 
-### Contacts 📫
+### Contacts 📫 
+
+<img align='right' width='100' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif'>
 
 Feel free to contact me:
 [telegram](https://t.me/stanisgri)
-
