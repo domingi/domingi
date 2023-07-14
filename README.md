@@ -7,6 +7,7 @@ In September 2022, I decided to retrain in IT. Before that, I worked as a digita
 In the course of my work, I was in constant communication with developers, supervised the production of sites, translated customer requirements into tasks. I wanted to become a developer myself. As a result, I chose the direction and now I am studying as a Frontend developer at Hexlet.
 
 During my studies, I completed the following projects:
+- [RSS Aggregator](https://github.com/domingi/rss-aggregator) - a service for aggregating RSS feeds. Add an unlimited number of RSS feeds, updates them itself and adds new entries to the general feed;
 - [Difference Calculator](https://github.com/domingi/frontend-project-46) - CLI utility that determines the difference between two data structures with the possibility of three types of output to the console;
 - [Mind Games](https://github.com/domingi/frontend-project-44) - a set of five console games, built on the principle of popular mobile applications for pumping the brain.
 
@@ -21,6 +22,7 @@ During my studies, I completed the following projects:
 ### Skills 👨‍💻
 
 - JavaScript ES6+
+- React
 - Basic knowledge of HTML, CSS, Markdown
 - Basic skills of working with Git, GitHub
 - Basic setup CI (Github Actions)
