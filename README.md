@@ -11,7 +11,7 @@ In the course of my work, I was in constant communication with developers, super
 - [Chat](https://github.com/domingi/frontend-project-12) - very simplified analogue of Slack. This is a real-time application in React/Redux, using AJAX, REST, websockets, React (with hooks) + Redux (@reduxjs/toolkit) + Formik;
 - [RSS Aggregator](https://github.com/domingi/rss-aggregator) - a service for aggregating RSS feeds. Add an unlimited number of RSS feeds, updates them itself and adds new entries to the general feed;
 - [Difference Calculator](https://github.com/domingi/frontend-project-46) - CLI utility that determines the difference between two data structures with the possibility of three types of output to the console;
-- [Mind Games](https://github.com/domingi/frontend-project-44) - a set of five console games, built on the principle of popular mobile applications for pumping the brain.
+- [Mind Games](https://github.com/domingi/mind-games) - a set of five console games, built on the principle of popular mobile applications for pumping the brain. My first project.
 
 
 ### Skills 👨‍💻
