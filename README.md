@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 ### Web developer
-Looking for a job or internship as a Frontend Developer.
 
 In September 2022, I decided to retrain in IT. Before that, I worked as a digital marketer, building business processes to generate traffic to websites and receive targeted user actions (requests, registrations, purchases).
 
@@ -35,8 +34,7 @@ In the course of my work, I was in constant communication with developers, super
 - I know how to work with the Linux command line, basic commands.
 
 ### Interest 🎓
-<p align="left"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-</p>
+<p align="left"> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> </p>
 
 
 ### Contacts 📫 
